@@ -7,4 +7,7 @@ Using the position (centroid) I am trying to calculate the following parameters 
 1. Nearby players i.e. having distance less than 100 pixels. (done)
 2. Total distance covered by the player in pixels during the rally. (in progress)
 3. Average speed of the player in pixels per second (in progress)
-Attaching the python colab script 
+
+Attaching the python colab script.
+
+Tried doing it by using object oriented features to gets hands dirty in it.
