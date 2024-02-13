@@ -1,5 +1,5 @@
 # Analysis of Player tracking data given by Deep Learning model
-In this I am trying to do the analysis of data given by player detection model in form of .CSV file.
+In this code I am trying to do the analysis of data given by player detection model in form of .CSV file.
 The player detection model was used on a video of volleyball match and we got a csv file containing coordinates of bounding boxes around each player for each frame.
 I am calculating the centroid of the bounding box around each player and considering it as the position of that player.
 
